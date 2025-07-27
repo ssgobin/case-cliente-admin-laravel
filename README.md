@@ -58,18 +58,14 @@ php artisan key:generate
 Abra o arquivo `.env` e edite estas linhas com os dados do seu MySQL local:
 
 
-
+```bash
 DB_CONNECTION=mysql
-
 DB_HOST=127.0.0.1
-
 DB_PORT=3306
-
 DB_DATABASE=cliente_admin
-
 DB_USERNAME=root
-
 DB_PASSWORD=
+```
 
 💡 Dica: crie o banco `cliente_admin` no phpMyAdmin ou outro gerenciador MySQL.
 
