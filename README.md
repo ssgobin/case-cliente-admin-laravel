@@ -11,7 +11,6 @@ Este projeto é um sistema simples e responsivo para **cadastrar, editar, exclui
 - ✅ Pesquisa por nome
 - ✅ Visualização de dados em formato de **relatórios com cartões**
 - ✅ Interface simples e bonita, compatível com celular e computador
-- ✅ Alerta visual (popup) com confirmação ao excluir
 
 ---
 
