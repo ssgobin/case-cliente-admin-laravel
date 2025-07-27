@@ -37,7 +37,7 @@ Você pode obter os arquivos do sistema de duas formas simples:
 - **Opção 1:** Baixar o arquivo .zip diretamente do GitHub (clicando no botão "Code" e depois em "Download ZIP"). Depois é só descompactar na pasta que preferir.
 - **Opção 2:** Clonar o repositório Git via terminal, usando o comando:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ssgobin/case-cliente-admin-laravel.git
 ```
 Assim você já terá o histórico e poderá atualizar o projeto facilmente no futuro.
 
