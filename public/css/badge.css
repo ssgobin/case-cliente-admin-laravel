@@ -1,0 +1,10 @@
+.badge-renda {
+    padding: 5px 10px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+}
+.badge-classe-a { background-color: red; }
+.badge-classe-b { background-color: orange; }
+.badge-classe-c { background-color: green; }
