@@ -57,6 +57,8 @@ php artisan key:generate
 
 Abra o arquivo `.env` e edite estas linhas com os dados do seu MySQL local:
 
+
+
 DB_CONNECTION=mysql
 
 DB_HOST=127.0.0.1
