@@ -1,4 +1,4 @@
-# 📋 Sistema de Administração de Clientes
+# Sistema de Administração de Clientes
 
 Este projeto é um sistema simples, porém funcional e responsivo, desenvolvido em PHP com o framework Laravel, que permite a gestão básica de clientes. Com ele, você pode **cadastrar, editar, excluir e visualizar informações importantes dos seus clientes** tudo através de uma interface amigável, leve e que funciona bem em dispositivos móveis e desktops.
 
@@ -6,21 +6,21 @@ Ideal para quem precisa de um sistema prático para controle de clientes, seja p
 
 ---
 
-## 🧑‍💻 O que esse sistema faz?
+## O que esse sistema faz?
 
 Este sistema oferece as principais funcionalidades para a administração de clientes, focando na usabilidade e na simplicidade, para que o usuário possa realizar todas as operações comuns com facilidade:
 
-- ✅ Cadastro de clientes (nome, CPF, nascimento, renda)
-- ✅ Edição e exclusão de clientes
-- ✅ Pesquisa por nome
-- ✅ Visualização de dados em formato de **relatórios com cartões**
-- ✅ Interface simples e bonita, compatível com celular e computador
+-  Cadastro de clientes (nome, CPF, nascimento, renda)
+-  Edição e exclusão de clientes
+-  Pesquisa por nome
+-  Visualização de dados em formato de **relatórios com cartões**
+-  Interface simples e bonita, compatível com celular e computador
 
 ---
 
-## 🖥️ Como usar este sistema no seu computador?
+## Como usar este sistema no seu computador?
 
-### 1. 📦 Requisitos
+### 1. Requisitos
 
 Antes de tudo, certifique-se de que seu ambiente local está preparado para rodar projetos Laravel. Você vai precisar de:
 
@@ -30,7 +30,7 @@ Antes de tudo, certifique-se de que seu ambiente local está preparado para roda
 
 ---
 
-### 2. ⬇️ Baixar o projeto
+### 2. Baixar o projeto
 
 Você pode obter os arquivos do sistema de duas formas simples:
 
@@ -43,7 +43,7 @@ Assim você já terá o histórico e poderá atualizar o projeto facilmente no f
 
 ---
 
-### 3. ⚙️ Configurar o projeto
+### 3. Configurar o projeto
 
 Depois de baixar o projeto, é preciso instalar as dependências do Laravel para que ele funcione corretamente.
 Abra o terminal dentro da pasta do projeto e execute:
@@ -62,7 +62,7 @@ Isso cria uma chave única e importante para o funcionamento seguro do sistema.
 
 ---
 
-### 4. 🛠️ Configurar o banco de dados
+### 4. Configurar o banco de dados
 
 O Laravel usa um arquivo chamado `.env` para guardar configurações do ambiente, como acesso ao banco.
 
@@ -78,11 +78,11 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-💡 Dica: crie o banco `cliente_admin` no phpMyAdmin ou outro gerenciador MySQL.
+Dica: crie o banco `cliente_admin` no phpMyAdmin ou outro gerenciador MySQL.
 
 ---
 
-### 5. 🧱 Criar as tabelas no banco
+### 5. Criar as tabelas no banco
 
 Para que o sistema funcione, é necessário criar as tabelas no banco de dados que armazenarão os dados dos clientes.
 
@@ -95,7 +95,7 @@ Esse comando lê as migrations presentes no projeto e cria as tabelas automatica
 
 ---
 
-### 6. ▶️ Rodar o sistema
+### 6. Rodar o sistema
 
 Com tudo configurado, basta iniciar o servidor local do Laravel para acessar o sistema via navegador:
 
@@ -111,16 +111,16 @@ Você verá a interface do sistema pronta para uso.
 
 ---
 
-## 📷 Telas do sistema
+## Telas do sistema
 
-- ✅ Página de cadastro
-- ✅ Lista de clientes
-- ✅ Botões de editar/excluir
-- ✅ Relatórios por mês, semana e dia
+-  Página de cadastro
+-  Lista de clientes
+-  Botões de editar/excluir
+-  Relatórios por mês, semana e dia
 
 ---
 
-## ❓ Dúvidas comuns
+## Dúvidas comuns
 
 - **"O que é CPF com 11 dígitos?"**  
   É o número do CPF completo, sem pontos ou traços. Ex: `12345678901`
@@ -130,11 +130,11 @@ Você verá a interface do sistema pronta para uso.
 
 ---
 
-## 📞 Suporte
+## Suporte
 
 Se você tiver alguma dúvida ou problema, entre em contato com o desenvolvedor:
 
 **João Vitor Sgobin**  
-📧 dev.ssgobin@gmail.com  
-📱 (19) 99400-4912  
-🔗 [LinkedIn](https://www.linkedin.com/in/joaovitorsgobin/)
+dev.ssgobin@gmail.com  
+(19) 99400-4912  
+[LinkedIn](https://www.linkedin.com/in/joaovitorsgobin/)
